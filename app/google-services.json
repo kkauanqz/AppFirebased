@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "979409800461",
+    "firebase_url": "https://appfirebase-f4b1c-default-rtdb.firebaseio.com",
+    "project_id": "appfirebase-f4b1c",
+    "storage_bucket": "appfirebase-f4b1c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979409800461:android:c2dbed065f2c2f8266b444",
+        "android_client_info": {
+          "package_name": "com.example.churusbamgos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7cI9X-WPGqeaBv-XI_z2EyjtZ6_azzAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
